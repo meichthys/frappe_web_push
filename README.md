@@ -25,4 +25,5 @@ bench restart
 Test notification by creating a `ToDo` and assigning it to another user who is logged in and has their browser open.
 
 Here's a demo showing it in action:
-[Frappe Web Push Demo.webm](https://github.com/user-attachments/assets/6345433e-2448-4223-8372-fe9035bf6aea)
+![frappe_web_push_demo](https://github.com/user-attachments/assets/85bdf8d4-2684-441d-9061-1acfc3369cd3)
+
