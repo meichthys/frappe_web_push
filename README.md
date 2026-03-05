@@ -18,6 +18,12 @@ bench get-app https://github.com/meichthys/frappe_web_push.git
 # Install the app
 bench install-app frappe_web_push
 
+# Migrate for good measure
+bench migrate
+
+# Clear caches for even better measure
+bench clear-cache && bench clear-website-cache
+
 # Restart bench
 bench restart
 ```
